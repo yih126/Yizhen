@@ -5,7 +5,6 @@ Hello! My name is Yizhen Han.
 I am a Computer Science student at UCSD.
 ![My Image](OIP.jpg)
 ---
-![My Photo]
 ## Table of Contents
 - [Yizhen Han](#yizhen-han)
   - [About Me](#about-me)
