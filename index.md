@@ -2,23 +2,24 @@
 
 ## About Me
 Hello! My name is Yizhen Han.  
-I am a Computer Science student at UCSD.
+I am a **Computer Science** student at *UCSD*.
+
 ![My Image](OIP.jpg)
+
 ---
+
 ## Table of Contents
 - [Yizhen Han](#yizhen-han)
   - [About Me](#about-me)
-  - [](#)
   - [Table of Contents](#table-of-contents)
   - [Hobbies](#hobbies)
   - [Courses](#courses)
   - [Links](#links)
+  - [Tasks](#tasks)
   - [Quote](#quote)
   - [Code Example](#code-example)
 
 ---
-
-
 
 ## Hobbies
 - Playing games
@@ -33,9 +34,19 @@ I am a Computer Science student at UCSD.
 
 ---
 
-
 ## Links
 Here is an external link to [GitHub](https://github.com/yih126/Yizhen/).
+
+Jump to [Hobbies section](#hobbies)
+
+Check my local file: [README](README.md)
+
+---
+
+## Tasks
+- [x] Finish GitHub profile
+- [ ] Add more projects
+- [ ] Improve README
 
 ---
 
