@@ -3,31 +3,25 @@
 ## About Me
 Hello! My name is Yizhen Han.  
 I am a Computer Science student at UCSD.
-
+![My Image](OIP.jpg)
 ---
-
+![My Photo]
 ## Table of Contents
 - [Yizhen Han](#yizhen-han)
   - [About Me](#about-me)
+  - [](#)
   - [Table of Contents](#table-of-contents)
-  - [Programming](#programming)
   - [Hobbies](#hobbies)
   - [Courses](#courses)
-  - [Tasks](#tasks)
   - [Links](#links)
   - [Quote](#quote)
   - [Code Example](#code-example)
 
 ---
 
-## Programming
-My favorite programming language is **C++**.  
-I also enjoy *learning new technologies*.
 
----
 
 ## Hobbies
-- Coding
 - Playing games
 - Listening to music
 
@@ -40,16 +34,9 @@ I also enjoy *learning new technologies*.
 
 ---
 
-## Tasks
-- [x] Create README.md
-- [x] Create .gitignore
-- [x] Create index.md
-- [ ] Publish GitHub Pages
-
----
 
 ## Links
-Here is an external link to [GitHub](https://github.com).
+Here is an external link to [GitHub](https://github.com/yih126/Yizhen/).
 
 ---
 
